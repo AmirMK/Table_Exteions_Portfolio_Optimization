@@ -1,6 +1,6 @@
 # Table_Exteions_Portfolio_Optimization
 
-This page includes the dataset, code, and Tableau visualization for protfolio optimization using Tableau Table Extesions. To get this example work you need:
+This page includes the dataset, code, and Tableau visualization for [protfolio optimization](https://en.wikipedia.org/wiki/Portfolio_optimization) using Tableau Table Extesions. To get this example work you need:
 
 1. Have Tableau 22.3+
 2. Install [TabPy](https://github.com/tableau/TabPy) package: `pip install TabPy`
